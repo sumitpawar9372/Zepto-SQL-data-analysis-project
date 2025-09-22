@@ -82,6 +82,3 @@ The project answers key business questions such as:
 * Create **stored procedures & functions** for automation.
 * Integrate with **Python (Pandas + SQLAlchemy)** for advanced analysis.
 
-
-Would you like me to also create a **shorter student-friendly README** (highlights + queries), or do you prefer this **detailed professional version** for recruiters?
-```
