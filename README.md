@@ -83,9 +83,5 @@ The project answers key business questions such as:
 * Integrate with **Python (Pandas + SQLAlchemy)** for advanced analysis.
 
 
-⭐ If you like this project, don’t forget to give it a **star** on GitHub!
-
-```
-
 Would you like me to also create a **shorter student-friendly README** (highlights + queries), or do you prefer this **detailed professional version** for recruiters?
 ```
